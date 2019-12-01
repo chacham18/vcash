@@ -77,3 +77,8 @@ bjam.exe toolset=msvc link=static runtime-link=static release
 ```
 
 Thank you for your support.
+
+
+
+-------------------
+Comment: This copy was done the day that original Vcash developer rage-quit the project. The beggining of the end for it.
